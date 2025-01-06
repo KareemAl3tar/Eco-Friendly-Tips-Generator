@@ -10,11 +10,5 @@
 - **A* Search Algorithm**: Matches user input to the best eco-friendly tips using a hybrid distance metric.
 - **User-Friendly GUI**: Built with PyQt5 for a smooth user experience.
 
----
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/Eco-Friendly-Tips-Generator.git
-   cd Eco-Friendly-Tips-Generator
